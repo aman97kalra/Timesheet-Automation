@@ -1,2 +1,11 @@
 # Timesheet-Automation
-A simple timesheet automation script using puppeteer.
+> A simple timesheet automation script to automate the manual task of timesheet submission every week using puppeteer.
+
+
+### How to run:
+1) Clone the repository
+2) Install the dependencies using ```npm install````.
+3) Enter your officetimer login details in the script.
+3) Run the script using ```node index.js````.
+
+Special thanks to [Vivek Kumar](https://github.com/ogil7190) for his constant support and guidance.

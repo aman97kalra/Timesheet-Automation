@@ -1,0 +1,19 @@
+{
+  "name": "timesheet-automation",
+  "version": "1.0.0",
+  "description": "Script to automate the timesheet submission every week using puppeteer",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "automation",
+    "puppeteer"
+  ],
+  "author": "Aman Kalra",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^0.19.2",
+    "puppeteer": "^3.3.0"
+  }
+}
