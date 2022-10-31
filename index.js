@@ -68,7 +68,7 @@ const valuesArray = [ 'Welldyne', 'PPM', 'Project Work', 'Work From Home'];
         // click on submit button
         await page.click( "#btnSubmitTS" );
 
-        console.log( 'Timesheet Submitted !' );
+        console.log( 'Timesheet Submitted Successfully!' );
 
         
     } catch( e ) {
